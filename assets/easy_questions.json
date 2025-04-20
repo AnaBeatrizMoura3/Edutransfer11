@@ -1,0 +1,45 @@
+[
+    {
+        "question": "Quem liderou o Projeto Manhattan?",
+        "options": ["Albert Einstein", "J. Robert Oppenheimer", "Enrico Fermi", "Leo Szilard"],
+        "correct": 1,
+        "explanation": "J. Robert Oppenheimer foi o diretor científico do Projeto Manhattan."
+    },
+    {
+        "question": "Quem foi o presidente dos Estados Unidos durante o lançamento das bombas atómicas em 1945?",
+        "options": ["Franklin D. Roosevelt", "Dwight D. Eisenhower", "John F. Kennedy", "Harry S. Truman"],
+        "correct": 3,
+        "explanation": "Harry S. Truman foi o presidente dos Estados Unidos no momento em que as bombas atómicas foram lançadas. A decisão de usar as bombas foi tomada por Truman, com o objetivo de forçar o Japão a se render, acelerando o fim da guerra e evitando uma invasão militar que causaria mais mortes."
+    },
+    {
+        "question": "Qual país foi o primeiro a testar uma bomba de hidrogénio??",
+        "options": ["Estados Unidos", "União Soviética", "Japão", "Reino Unido"],
+        "correct": 0,
+        "explanation": "Os Estados Unidos foram os primeiros a testar uma bomba de hidrogênio com o teste Ivy Mike em 1952, no Atol de Enewetak, no Pacífico."
+    },
+    {
+        "question": "Em que cidade a bomba de hidrogénio foi testada pela primeira vez?",
+        "options": ["Los Alamos", "Hiroshima", "Bikini Atoll", "Nevada"],
+        "correct": 2,
+        "explanation": "O primeiro teste bem-sucedido de uma bomba de hidrogênio ocorreu no Bikini Atoll, no Pacífico, em 1952, pelos Estados Unidos."
+    },
+    {
+        "question": "Qual é o principal processo usado nas bombas de hidrogénio para gerar a energia de uma explosão nuclear?",
+        "options": ["Fusão nuclear", "Decaimento radioativo", "Transmutação nuclear", "Reação endotérmica"],
+        "correct": 0,
+        "explanation": "As bombas de hidrogénio dependem da fusão nuclear, onde núcleos de hidrogénio se combinam para formar hélio, libertando uma enorme quantidade de energia."
+    },
+    {
+        "question": "Qual é o elemento principal usado na bomba de hidrogénio?",
+        "options": ["Urânio", "Plutónio", "Hidrogénio", "Carbono"],
+        "correct": 2,
+        "explanation": "O hidrogénio é usado como combustível principal nas reações termonucleares da bomba H."
+    },
+    {
+        "question": "Qual é o nome do protocolo internacional que procura a limitação de testes de armas nucleares?",
+        "options": ["Tratado de Não Proliferação Nuclear", "Tratado de Paz Nuclear", "Acordo de Cessar-Fogo Nuclear", "Tratado de Testes Nucleares"],
+        "correct": 3,
+        "explanation": "O Tratado de Testes Nucleares de 1963 limita a realização de testes nucleares e proíbe testes na atmosfera, no espaço ou debaixo de água."
+    }
+    
+]

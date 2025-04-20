@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Qual o nome do primeiro teste nuclear bem-sucedido?",
+        "options": ["Trinity", "Manhattan", "Saratoga", "Enola"],
+        "correct": 0,
+        "explanation": "O teste nuclear Trinity foi o primeiro teste realizado no Novo México, EUA, em 1945."
+    },
+    {
+        "question": "Qual foi o nome do cientista que propôs a primeira teoria sobre a fissão nuclear, essencial para o desenvolvimento da bomba atómica?",
+        "options": ["Albert Einstein", "Niels Bohr", "Otto Hahn", "Enrico Fermi"],
+        "correct": 2,
+        "explanation": "Otto Hahn foi o físico que, em 1938, descobriu a fissão nuclear ao bombardear o urânio com neutrões, um processo fundamental para o desenvolvimento da bomba atómica."
+    },
+    {
+        "question": "Em que laboratório os primeiros testes nucleares foram realizados no Projeto Manhattan?",
+        "options": ["Lawrence Berkeley National Laboratory", "Argonne National Laboratory", "Oak Ridge National Laboratory", "Los Alamos Laboratory"],
+        "correct": 3,
+        "explanation": "O laboratório de Los Alamos, no Novo México, foi o principal centro de pesquisa para o Projeto Manhattan, onde a bomba atómica foi desenvolvida."
+    },
+    {
+        "question": "Quem foi o cientista que ajudou a desenvolver a bomba de hidrogénio e mais tarde se opôs à corrida ao armamento nuclear?",
+        "options": ["J. Robert Oppenheimer", "Enrico Fermi", "Edward Teller", "Leo Szilard"],
+        "correct": 2,
+        "explanation": "Edward Teller foi fundamental no desenvolvimento da bomba de hidrogénio, mas também se tornou um defensor do controle de armas nucleares e da paz mundial."
+    },
+    {
+        "question": "Qual foi o nome do teste nuclear da União Soviética que foi a primeira detonação de uma bomba de hidrogénio em 1953?",
+        "options": ["Teste de Tsar Bomba", "Teste de RDS-37", "Teste de Novaya Zemlya", " Teste de ICBM"],
+        "correct": 1,
+        "explanation": "O teste nuclear RDS-37, realizado pela União Soviética em 1953, foi o primeiro teste bem-sucedido de uma bomba de hidrogénio soviética."
+    },
+    {
+        "question": "Quem foi o físico que ajudou a desenvolver a teoria da fusão termonuclear, usada nas bombas de hidrogénio?",
+        "options": ["J. Robert Oppenheimer", "Hans Bethe", "Niels Bohr", "Ernest Rutherford"],
+        "correct": 1,
+        "explanation": "Hans Bethe ajudou a desenvolver a teoria da fusão termonuclear, explicando como o hidrogénio poderia ser usado para criar uma reação nuclear extremamente poderosa."
+    },
+    {
+        "question": "Quem foi o responsável pelo termo 'bomba atómica'?",
+        "options": ["Robert Oppenheimer", "Leo Szilard", "Enrico Fermi", "Niels Bohr"],
+        "correct": 1,
+        "explanation": "O termo 'bomba atómica' foi utilizado por Leo Szilard, físico que trabalhou no Projeto Manhattan."
+    },
+    {
+        "question": "Em que ano a bomba de hidrogénio foi testada pela primeira vez?",
+        "options": ["1949", "1952", "1960", "1971"],
+        "correct": 1,
+        "explanation": "A primeira bomba de hidrogénio foi testada em 1952 pelos EUA numa ilha do Pacífico."
+    }
+]
